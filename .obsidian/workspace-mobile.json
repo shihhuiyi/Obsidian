@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a1ba06fe35c4ae7e",
+        "id": "3b8812e897cb5d93",
         "type": "tabs",
         "children": [
           {
-            "id": "bc4a7cf61268f855",
+            "id": "35b5329c20d901dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Machine Learning/CNN.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -131,9 +131,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc4a7cf61268f855",
+  "active": "35b5329c20d901dc",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Machine Learning/CNN.md"
+    "Machine Learning/Transfer Learning.md",
+    "Machine Learning/Backpropagation.md",
+    "Machine Learning/RNN.md",
+    "Machine Learning/Confusion Matrix.md",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Classification Problem.md",
+    "Machine Learning/Activation Function.md",
+    "Machine Learning/FNN.md",
+    "Machine Learning/CNN.md",
+    "Machine Learning/attached/GRU.png",
+    "Machine Learning/attached/LSTM2.png",
+    "Machine Learning/attached/CNN_Pooling.png",
+    "Machine Learning/attached/LSTM1.png",
+    "Machine Learning/attached/FNN.png",
+    "Machine Learning/attached/CNN_FutureMap1.png",
+    "Machine Learning/attached/RNN.png",
+    "Machine Learning/attached/CNN_FutureMap3.png",
+    "Machine Learning/attached/CNN_FutureMap2.png",
+    "Untitled.canvas"
   ]
 }

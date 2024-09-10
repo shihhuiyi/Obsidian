@@ -37,3 +37,7 @@
 			
 			return True
 	```
+
+---
+## [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+334. Increasing Triplet Subsequence #Array #Greedy 

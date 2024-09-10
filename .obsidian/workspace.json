@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Confusion Matrix.md",
+                "file": "Machine Learning/Overfitting.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Confusion Matrix.md",
+                "file": "Machine Learning/Overfitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Confusion Matrix.md",
+                "file": "Machine Learning/Overfitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,12 +174,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Confusion Matrix.md"
+                "file": "Machine Learning/Overfitting.md"
               }
+            }
+          },
+          {
+            "id": "e67369fae759e796",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,22 +200,23 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b245433759cd0fed",
   "lastOpenFiles": [
-    "Machine Learning/Overfitting.md",
-    "Machine Learning/Confusion Matrix.md",
-    "Machine Learning/Activation Function.md",
-    "Machine Learning/Transfer Learning.md",
     "Machine Learning/Machine Learning.md",
+    "Leetcode/Leetcode Problem.md",
+    "Machine Learning/CNN.md",
+    "Machine Learning/Confusion Matrix.md",
+    "Machine Learning/Transfer Learning.md",
+    "Machine Learning/Overfitting.md",
+    "Machine Learning/Activation Function.md",
     "Machine Learning/RNN.md",
     "Machine Learning/FNN.md",
-    "Machine Learning/CNN.md",
     "Machine Learning/Classification Problem.md",
     "Machine Learning/Backpropagation.md",
-    "Leetcode/Leetcode Problem.md",
     "Leetcode",
     "Machine Learning/attached/CNN_FutureMap3.png",
     "Machine Learning/attached/CNN_Pooling.png",

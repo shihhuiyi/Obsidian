@@ -1,6 +1,6 @@
 
 ## [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
-45. Jump Game II #Medium #Array #Dynamic-Programming #Greedy #Two-Pointers
+45. Jump Game II #Medium #Array #Dynamic-Programming #Greedy #Two_Pointers
 * Two pointers:
 	* 先找出每個點可以到的最遠距離
 	* 找出每次可以到的點裡面的最遠距離
@@ -40,7 +40,7 @@
 
 ---
 ## [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
-151. Reverse Words in a String #Medium #Two-Pointers #String 
+151. Reverse Words in a String #Medium #Two_Pointers #String 
 * 直接用空格拆開再反序組回去
 * 如果有多個空格的話，會有空值出現，要把空值移除掉
 ```python
@@ -94,7 +94,7 @@ class Solution:
 ```
 ---
 ## [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
-345. Reverse Vowels of a String #Easy #Two-Pointers #String 
+345. Reverse Vowels of a String #Easy #Two_Pointers #String 
 * 用stack儲存所有的母音
 * 再把遇到的母音組裝回去
 ```python
@@ -161,7 +161,7 @@ class Solution:
 
 ---
 ## [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
-1767. Merge Strings Alternately #Easy #String #Two-Pointers 
+1767. Merge Strings Alternately #Easy #String #Two_Pointers 
 * 先用迴圈把最小長度的交互合併
 * 再把較長字串剩餘的部分合併
 ```python

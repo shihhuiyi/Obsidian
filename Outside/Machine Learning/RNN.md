@@ -9,7 +9,7 @@
 * hidden layer: 
 	* 跟LSTM Output Gate做的事很像，只是全部都做tanh
 	* ht​=f(Wh​⋅ht−1​+Wx​⋅xt​+bh​)
-	![RNN](attached/RNN.png)
+	![RNN](RNN.png)
 ---
 ### 常見問題
 * [梯度消失](Backpropagation.md#梯度消失)
@@ -37,8 +37,8 @@
 			* tanh類似標準化，把資料壓縮到-1~1之間
 			* $ht​=ot​⋅tanh(Ct​)$
 	
-	![LSTM](attached/LSTM1.png)
-	![LSTM2](attached/LSTM2.png)
+	![LSTM](LSTM1.png)
+	![LSTM2](LSTM2.png)
 #### GRU
 * 門從LSTM的3個減少為2個，解決LSTM速度較慢的問題
 * 利用門（gates）來控制訊息的流動
@@ -51,4 +51,4 @@
 		* 決定計算候選隱藏狀態時，上一狀態的影響程度
 		* $rt​=σ(Wr​⋅[ht−1​,xt​]+br​)$
 	
-	![GRU](attached/GRU.png)
+	![GRU](GRU.png)

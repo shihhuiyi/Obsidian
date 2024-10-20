@@ -3,4 +3,4 @@
 * Hidden Layer: 隱藏層
 * Activative Function: 進行非線性處理
 * Output Layer: 輸出
-![FNN](attached/FNN.png)
+![FNN](FNN.png)

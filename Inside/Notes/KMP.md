@@ -1,0 +1,24 @@
+---
+up:
+  - "[[Data Structure and Algorithm]]"
+---
+---
+- 解決字符串匹配問題
+- 流程
+	- 找出模式串前後綴
+		- 前綴：包含首字母不包含尾字母的字串
+		- 後綴：包含尾字母不包還首字母的字串
+		- 前綴表：最長相等前後綴 (perfix, next)
+			- aabaaf
+			- 010120
+				- a: 0
+				- **aa**: 1
+				- aab: 0
+				- **a**ab**a**: 1
+				- **aa**b**aa**: 2
+				- aabaaf: 0
+	- 兩個字串開始匹配
+	- 匹配失敗模式串就回到前一個值前綴表紀錄的位置繼續
+- ==還沒學會==
+	- [[028. Find the Index of the First Occurrence in a String]]
+	- [[459. Repeated Substring Pattern]]

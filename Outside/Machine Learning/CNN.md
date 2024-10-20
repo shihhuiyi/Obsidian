@@ -15,24 +15,24 @@
 		* Kernal大小
 			* 每個值都是要訓練的參數
 			* 藉由調整Kernel大小決定Kernels的特徵接受域 (Receptive field)
-			![CNN_FutureMap](attached/CNN_FutureMap1.png)
+			![CNN_FutureMap](CNN_FutureMap1.png)
 		* 步長
 			* 影響feature map大小
 			* 控制圖像長寬尺寸的方式之一
-			* ![CNN_FutureMap3](attached/CNN_FutureMap3.png)
+			* ![CNN_FutureMap3](CNN_FutureMap3.png)
 		* 填充
 			* Stride為1
 				* 輸出Feature map與輸入圖像維持一樣的尺寸
 			* Stride大於1
 				* 輸出Feature map寬、高等於輸入影像寬、高/Stride(小數值無條件進位)
-			![CNN_FutureMap](attached/CNN_FutureMap2.png)
+			![CNN_FutureMap](CNN_FutureMap2.png)
 	* 卷積操作通常會引入非線性激活函數（如 ReLU）以增加模型的非線性能力
 * 池化層（Pooling Layer）
 	* 用於降低特徵圖的尺寸，減少參數量和計算量
 	* 最大池化（Max Pooling）
 		* 選取區域內的最大值作為該區域的代表特徵
 	* 池化層能夠使特徵對於平移和縮放具有一定的不變性
-	![CNN_Pooling](attached/CNN_Pooling.png)
+	![CNN_Pooling](CNN_Pooling.png)
 * 全連接層（Fully Connected Layer）
 	* CNN 的輸出通常展平成一維數據
 	* 通過一個或多個全連接層來進行分類

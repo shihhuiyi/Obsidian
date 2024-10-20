@@ -20,5 +20,5 @@ up:
 	- 兩個字串開始匹配
 	- 匹配失敗模式串就回到前一個值前綴表紀錄的位置繼續
 - ==還沒學會==
-	- [[028. Find the Index of the First Occurrence in a String]]
-	- [[459. Repeated Substring Pattern]]
+	- [[0028. Find the Index of the First Occurrence in a String]]
+	- [[0459. Repeated Substring Pattern]]
